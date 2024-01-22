@@ -24,5 +24,7 @@
     "editorIndentGuide.activeBackground1": "#f0f000",
     "editor.findMatchBackground": "#ffffff41",
     "editor.findMatchHighlightBackground": "#ffffff21"
+    "statusBar.debuggingBackground": "#8f0000",
+    "statusBar.debuggingForeground": "#ffffff",
 }
 ```
